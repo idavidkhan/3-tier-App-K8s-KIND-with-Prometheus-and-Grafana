@@ -6,6 +6,10 @@ ___
 
 ## Overview
 
+![Architecture Diagram](https://github.com/idavidkhan/3-tier-App-K8s-KIND-with-Prometheus-and-Grafana/blob/main/grafana.png)
+![Architecture Diagram](https://github.com/idavidkhan/3-tier-App-K8s-KIND-with-Prometheus-and-Grafana/blob/main/prometheus.png)
+
+
 This repo contains Kubernetes manifests for a .NET / Python three-tier Voting app and instructions to:
 
 - Launch a cluster (Kind on EC2)
